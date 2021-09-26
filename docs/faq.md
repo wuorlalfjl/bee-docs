@@ -165,7 +165,7 @@ therefore it is deterministic. As all nodes must have a unique address,
 if you were to use the same wallet, it would violate the uniqueness 
 constraint and result in malfunctioning nodes.
 
-Therefore, the rule is, each node must have:
+Therefore, the rule is, each node must have:11313
 
 * 1 Ethereum Address
 * 1 Chequebook
